@@ -1,0 +1,2 @@
+# sqlWithTeo
+SQL exercises 
